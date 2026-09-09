@@ -80,3 +80,7 @@ Descripción del Sexagésimo procedimiento del laboratorio:
 
 ![Paso 16](images/16.png)
 
+## 17. SexTésimo Paso del Laboratorio
+Descripción del Sexagésimo procedimiento del laboratorio:
+
+![Paso 17](images/17.png)
