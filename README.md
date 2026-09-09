@@ -56,7 +56,7 @@ Descripción del undécimo procedimiento:
 ![Paso 11](images/11.png)
 
 ## 12. Duodécimo Paso del Laboratorio
-Descripción del último procedimiento del laboratorio:
+Descripción del duodécimo procedimiento del laboratorio:
 
 ![Paso 12](images/12.png)
 
@@ -64,3 +64,19 @@ Descripción del último procedimiento del laboratorio:
 Descripción del último procedimiento del laboratorio:
 
 ![Paso 13](images/13.png)
+
+## 14. Cuadragésimo Paso del Laboratorio
+Descripción del Cuadragésimo procedimiento del laboratorio:
+
+![Paso 14](images/14.png)
+
+## 15. Quincuagésimo Paso del Laboratorio
+Descripción del quincuagésimo procedimiento del laboratorio:
+
+![Paso 15](images/15.png)
+
+## 16. Sexagésimo Paso del Laboratorio
+Descripción del Sexagésimo procedimiento del laboratorio:
+
+![Paso 16](images/16.png)
+
