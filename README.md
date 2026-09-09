@@ -1,5 +1,10 @@
 # Laboratorio de Java
 
+### Desarrolladores - Laboratorio 2 (RCD)
+
+* **Favio Andre Solórzano Vilca**
+* **Jherson Martin Diaz Junco**
+
 ## 1. Verificación de la versión de Java
 Vemos la versión de Java instalada en el sistema:
 
